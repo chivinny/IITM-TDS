@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 st.write("""
-#Maximum of 3 Numbers""")
+# Multiplication of 2 given numbers""")
 st.header('User Input Parameters')
 
 num1=st.number_input('Number 1')
