@@ -8,5 +8,5 @@ num1=st.number_input('Number 1')
 num2=st.number_input('Number 2')
 
 x=num1*num2
-st.header('Multiplication of both number is: ')
+st.header('Multiplication of both numbers is: ')
 st.write(x)
